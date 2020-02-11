@@ -11,6 +11,6 @@ end
 
 prying_into_the_method
 
-def plus_two(number)
-	return number + 2
+def plus_two(number_)
+	return number_ + 2
 end
