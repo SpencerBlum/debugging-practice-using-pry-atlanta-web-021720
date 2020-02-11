@@ -12,5 +12,6 @@ end
 prying_into_the_method
 
 def plus_two(number_)
-	return number_ + 2
+	total = 0 
+	total += number_ + 2
 end
